@@ -125,7 +125,7 @@ body {
   
 
   
-div a{
+div #a{
   text-decoration: none;
   background-color: navy;
   padding: 10px;
@@ -138,4 +138,9 @@ div a{
   text-align: end;
   margin-top: 30px;
   
+}
+div a{
+  text-decoration: none;
+  color: blue;
+  font-size: 18px;
 }
