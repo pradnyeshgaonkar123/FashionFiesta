@@ -1,0 +1,4 @@
+var shoppingCart = ( function(){
+    cart = [];
+    
+})
